@@ -1,0 +1,158 @@
+[
+  {
+    "url": "https://siddharthsingh-main.vercel.app/_next/image?url=%2Fimages%2Fprofile.png&w=256&q=75",
+    "kind": "image",
+    "context": "Siddharth Singh — Full Stack Engineer",
+    "outputName": "image-4c89acef.bin"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/radial-gradient(600px,%20rgba(103,%20232,%20249,%200.05),%20rgba(0,%200,%200,%200)%2080%)",
+    "kind": "background",
+    "context": "div.spotlight:nth-of-type(2)",
+    "outputName": "radial-gradient-600px-20rgba-103-20232-20249-200-86a901c8.0520rgba02002002002080"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/linear-gradient(135deg,%20rgb(103,%20232,%20249),%20rgb(165,%20180,%20252))",
+    "kind": "background",
+    "context": "header.fixed.top-0.left-0 > nav.mx-auto.max-w-5xl.flex > div.flex.items-center.gap-8:nth-of-type(1) > a.text-lg.font-bold > span.gradient-text:nth-of-type(1)",
+    "outputName": "linear-gradient-135deg-20rgb-103-20232-20249-20r-3de58448.bin"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/radial-gradient(at%2020%%2050%,%20rgb(32,%20161,%20235),%20rgba(0,%200,%200,%200)%2050%),%20radial-gradient(at%2080%%2020%,%20rgb(111,%20144,%20246),%20rgba(0,%200,%200,%200)%2050%),%20radial-gradient(at%2050%%2080%,%20rgba(14,%20165,%20233,%200.19),%20rgba(0,%200,%200,%200)%2050%)",
+    "kind": "background",
+    "context": "main.relative.z-10 > section.relative.min-h-\\[70vh\\].flex:nth-of-type(1) > div.absolute.inset-0.-z-10:nth-of-type(1)",
+    "outputName": "radial-gradient-at-2020-2050-20rgb-32-20161-2023-4b43323f.1920rgba02002002002050"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/linear-gradient(to%20right%20in%20oklab,%20rgb(103,%20232,%20249)%200%,%20rgb(165,%20180,%20252)%20100%)",
+    "kind": "background",
+    "context": "main.relative.z-10 > section.py-16.px-6:nth-of-type(2) > div.max-w-5xl.mx-auto > h2.text-3xl.font-bold.mb-12 > span.block.w-8.h-0\\.5:nth-of-type(1)",
+    "outputName": "linear-gradient-to-20right-20in-20oklab-20rgb-10-18630073.bin"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/linear-gradient(in%20oklab,%20rgb(103,%20232,%20249)%200%,%20rgb(165,%20180,%20252)%2050%,%20rgba(0,%200,%200,%200)%20100%)",
+    "kind": "background",
+    "context": "main.relative.z-10 > section.py-16.px-6:nth-of-type(3) > div.max-w-5xl.mx-auto > div.relative > div.absolute.left-\\[7px\\].md\\:left-\\[11px\\]:nth-of-type(1)",
+    "outputName": "linear-gradient-in-20oklab-20rgb-103-20232-20249-842d9b9e.bin"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Geist;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/fef07dbb0973bf53-s.518e079e.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+460-52F,%20U+1C80-1C8A,%20U+20B4,%20U+2DE0-2DFF,%20U+A640-A69F,%20U+FE2E-FE2F;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "fef07dbb0973bf53-s-518e079e-woff2-22-20format-22-6b191e5f.woff22220format22woff22220unicoderange20U46052F20U1C801C8A20U20B420U2DE02DFF20UA640A69F20UFE2EFE2F207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Geist;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/8a480f0b521d4e75-s.ea323500.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+301,%20U+400-45F,%20U+490-491,%20U+4B0-4B1,%20U+2116;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "8a480f0b521d4e75-s-ea323500-woff2-22-20format-22-e9618023.woff22220format22woff22220unicoderange20U30120U40045F20U49049120U4B04B120U2116207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Geist;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/53b9e256198e5412-s.853d50a3.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+102-103,%20U+110-111,%20U+128-129,%20U+168-169,%20U+1A0-1A1,%20U+1AF-1B0,%20U+300-301,%20U+303-304,%20U+308-309,%20U+323,%20U+329,%20U+1EA0-1EF9,%20U+20AB;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "53b9e256198e5412-s-853d50a3-woff2-22-20format-22-26aab51d.woff22220format22woff22220unicoderange20U10210320U11011120U12812920U16816920U1A01A120U1AF1B020U30030120U30330420U30830920U32320U32920U1EA01EF920U20AB207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Geist;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/7178b3e590c64307-s.55554cd0.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+100-2BA,%20U+2BD-2C5,%20U+2C7-2CC,%20U+2CE-2D7,%20U+2DD-2FF,%20U+304,%20U+308,%20U+329,%20U+1D00-1DBF,%20U+1E00-1E9F,%20U+1EF2-1EFF,%20U+2020,%20U+20A0-20AB,%20U+20AD-20C0,%20U+2113,%20U+2C60-2C7F,%20U+A720-A7FF;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "7178b3e590c64307-s-55554cd0-woff2-22-20format-22-14c814ae.woff22220format22woff22220unicoderange20U1002BA20U2BD2C520U2C72CC20U2CE2D720U2DD2FF20U30420U30820U32920U1D001DBF20U1E001E9F20U1EF21EFF20U202020U20A020AB20U20AD20C020U211320U2C602C7F20UA720A7FF207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Geist;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+0-FF,%20U+131,%20U+152-153,%20U+2BB-2BC,%20U+2C6,%20U+2DA,%20U+2DC,%20U+304,%20U+308,%20U+329,%20U+2000-206F,%20U+20AC,%20U+2122,%20U+2191,%20U+2193,%20U+2212,%20U+2215,%20U+FEFF,%20U+FFFD;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "caa3a2e1cccd8315-s-p-3b6cae6d-woff2-22-20format--3c2c9b50.woff22220format22woff22220unicoderange20U0FF20U13120U15215320U2BB2BC20U2C620U2DA20U2DC20U30420U30820U32920U2000206F20U20AC20U212220U219120U219320U221220U221520UFEFF20UFFFD207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Geist%20Fallback%22;%20src:%20local(%22Arial%22);%20ascent-override:%2095.94%;%20descent-override:%2028.16%;%20line-gap-override:%200%;%20size-adjust:%20104.76%;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "font-face-20-7b-20font-family-20-22geist-20fallb-27d5686e.76207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Geist%20Mono%22;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/5ce348bf30bf5439-s.56c1f21e.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+460-52F,%20U+1C80-1C8A,%20U+20B4,%20U+2DE0-2DFF,%20U+A640-A69F,%20U+FE2E-FE2F;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "5ce348bf30bf5439-s-56c1f21e-woff2-22-20format-22-3b68fb08.woff22220format22woff22220unicoderange20U46052F20U1C801C8A20U20B420U2DE02DFF20UA640A69F20UFE2EFE2F207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Geist%20Mono%22;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/4fa387ec64143e14-s.3b336396.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+301,%20U+400-45F,%20U+490-491,%20U+4B0-4B1,%20U+2116;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "4fa387ec64143e14-s-3b336396-woff2-22-20format-22-eb5cc113.woff22220format22woff22220unicoderange20U30120U40045F20U49049120U4B04B120U2116207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Geist%20Mono%22;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/6306c77e7c8268e4-s.e3369375.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+2000-2001,%20U+2004-2008,%20U+200A,%20U+23B8-23BD,%20U+2500-259F;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "6306c77e7c8268e4-s-e3369375-woff2-22-20format-22-23757162.woff22220format22woff22220unicoderange20U2000200120U2004200820U200A20U23B823BD20U2500259F207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Geist%20Mono%22;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/7d817b4c03b0c5f1-s.a40b9a8b.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+102-103,%20U+110-111,%20U+128-129,%20U+168-169,%20U+1A0-1A1,%20U+1AF-1B0,%20U+300-301,%20U+303-304,%20U+308-309,%20U+323,%20U+329,%20U+1EA0-1EF9,%20U+20AB;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "7d817b4c03b0c5f1-s-a40b9a8b-woff2-22-20format-22-8b80cb96.woff22220format22woff22220unicoderange20U10210320U11011120U12812920U16816920U1A01A120U1AF1B020U30030120U30330420U30830920U32320U32920U1EA01EF920U20AB207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Geist%20Mono%22;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/bbc41e54d2fcbd21-s.fe42ddf4.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+100-2BA,%20U+2BD-2C5,%20U+2C7-2CC,%20U+2CE-2D7,%20U+2DD-2FF,%20U+304,%20U+308,%20U+329,%20U+1D00-1DBF,%20U+1E00-1E9F,%20U+1EF2-1EFF,%20U+2020,%20U+20A0-20AB,%20U+20AD-20C0,%20U+2113,%20U+2C60-2C7F,%20U+A720-A7FF;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "bbc41e54d2fcbd21-s-fe42ddf4-woff2-22-20format-22-637fe283.woff22220format22woff22220unicoderange20U1002BA20U2BD2C520U2C72CC20U2CE2D720U2DD2FF20U30420U30820U32920U1D001DBF20U1E001E9F20U1EF21EFF20U202020U20A020AB20U20AD20C020U211320U2C602C7F20UA720A7FF207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Geist%20Mono%22;%20font-style:%20normal;%20font-weight:%20100%20900;%20font-display:%20swap;%20src:%20url(%22../media/797e433ab948586e-s.p.29207c2f.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+0-FF,%20U+131,%20U+152-153,%20U+2BB-2BC,%20U+2C6,%20U+2DA,%20U+2DC,%20U+304,%20U+308,%20U+329,%20U+2000-206F,%20U+20AC,%20U+2122,%20U+2191,%20U+2193,%20U+2212,%20U+2215,%20U+FEFF,%20U+FFFD;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "797e433ab948586e-s-p-29207c2f-woff2-22-20format--46b4fe39.woff22220format22woff22220unicoderange20U0FF20U13120U15215320U2BB2BC20U2C620U2DA20U2DC20U30420U30820U32920U2000206F20U20AC20U212220U219120U219320U221220U221520UFEFF20UFFFD207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Geist%20Mono%20Fallback%22;%20src:%20local(%22Arial%22);%20ascent-override:%2074.67%;%20descent-override:%2021.92%;%20line-gap-override:%200%;%20size-adjust:%20134.59%;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "font-face-20-7b-20font-family-20-22geist-20mono--43f07c9e.59207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Sora;%20font-style:%20normal;%20font-weight:%20600;%20font-display:%20swap;%20src:%20url(%22../media/3dbe685087e51055-s.7d71229e.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+100-2BA,%20U+2BD-2C5,%20U+2C7-2CC,%20U+2CE-2D7,%20U+2DD-2FF,%20U+304,%20U+308,%20U+329,%20U+1D00-1DBF,%20U+1E00-1E9F,%20U+1EF2-1EFF,%20U+2020,%20U+20A0-20AB,%20U+20AD-20C0,%20U+2113,%20U+2C60-2C7F,%20U+A720-A7FF;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "3dbe685087e51055-s-7d71229e-woff2-22-20format-22-32e93957.woff22220format22woff22220unicoderange20U1002BA20U2BD2C520U2C72CC20U2CE2D720U2DD2FF20U30420U30820U32920U1D001DBF20U1E001E9F20U1EF21EFF20U202020U20A020AB20U20AD20C020U211320U2C602C7F20UA720A7FF207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Sora;%20font-style:%20normal;%20font-weight:%20600;%20font-display:%20swap;%20src:%20url(%22../media/6bd983bd58a87a3d-s.p.cf80dd39.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+0-FF,%20U+131,%20U+152-153,%20U+2BB-2BC,%20U+2C6,%20U+2DA,%20U+2DC,%20U+304,%20U+308,%20U+329,%20U+2000-206F,%20U+20AC,%20U+2122,%20U+2191,%20U+2193,%20U+2212,%20U+2215,%20U+FEFF,%20U+FFFD;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "6bd983bd58a87a3d-s-p-cf80dd39-woff2-22-20format--1ade40c1.woff22220format22woff22220unicoderange20U0FF20U13120U15215320U2BB2BC20U2C620U2DA20U2DC20U30420U30820U32920U2000206F20U20AC20U212220U219120U219320U221220U221520UFEFF20UFFFD207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Sora;%20font-style:%20normal;%20font-weight:%20700;%20font-display:%20swap;%20src:%20url(%22../media/3dbe685087e51055-s.7d71229e.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+100-2BA,%20U+2BD-2C5,%20U+2C7-2CC,%20U+2CE-2D7,%20U+2DD-2FF,%20U+304,%20U+308,%20U+329,%20U+1D00-1DBF,%20U+1E00-1E9F,%20U+1EF2-1EFF,%20U+2020,%20U+20A0-20AB,%20U+20AD-20C0,%20U+2113,%20U+2C60-2C7F,%20U+A720-A7FF;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "3dbe685087e51055-s-7d71229e-woff2-22-20format-22-07cf9b61.woff22220format22woff22220unicoderange20U1002BA20U2BD2C520U2C72CC20U2CE2D720U2DD2FF20U30420U30820U32920U1D001DBF20U1E001E9F20U1EF21EFF20U202020U20A020AB20U20AD20C020U211320U2C602C7F20UA720A7FF207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20Sora;%20font-style:%20normal;%20font-weight:%20700;%20font-display:%20swap;%20src:%20url(%22../media/6bd983bd58a87a3d-s.p.cf80dd39.woff2%22)%20format(%22woff2%22);%20unicode-range:%20U+0-FF,%20U+131,%20U+152-153,%20U+2BB-2BC,%20U+2C6,%20U+2DA,%20U+2DC,%20U+304,%20U+308,%20U+329,%20U+2000-206F,%20U+20AC,%20U+2122,%20U+2191,%20U+2193,%20U+2212,%20U+2215,%20U+FEFF,%20U+FFFD;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "6bd983bd58a87a3d-s-p-cf80dd39-woff2-22-20format--8db844d2.woff22220format22woff22220unicoderange20U0FF20U13120U15215320U2BB2BC20U2C620U2DA20U2DC20U30420U30820U32920U2000206F20U20AC20U212220U219120U219320U221220U221520UFEFF20UFFFD207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/@font-face%20%7B%20font-family:%20%22Sora%20Fallback%22;%20src:%20local(%22Arial%22);%20ascent-override:%2085.29%;%20descent-override:%2025.5%;%20line-gap-override:%200%;%20size-adjust:%20113.73%;%20%7D",
+    "kind": "font",
+    "context": "font-face",
+    "outputName": "font-face-20-7b-20font-family-20-22sora-20fallba-56066d17.73207D"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/radial-gradient(at%2020%%2050%,%20rgb(24,%20163,%20234),%20rgba(0,%200,%200,%200)%2050%),%20radial-gradient(at%2080%%2020%,%20rgb(119,%20142,%20247),%20rgba(0,%200,%200,%200)%2050%),%20radial-gradient(at%2050%%2080%,%20rgba(14,%20165,%20233,%200.19),%20rgba(0,%200,%200,%200)%2050%)",
+    "kind": "background",
+    "context": "main.relative.z-10 > section.relative.min-h-\\[70vh\\].flex:nth-of-type(1) > div.absolute.inset-0.-z-10:nth-of-type(1)",
+    "outputName": "radial-gradient-at-2020-2050-20rgb-24-20163-2023-7aed2776.1920rgba02002002002050"
+  },
+  {
+    "url": "https://siddharthsingh-main.vercel.app/radial-gradient(at%2020%%2050%,%20rgb(22,%20163,%20234),%20rgba(0,%200,%200,%200)%2050%),%20radial-gradient(at%2080%%2020%,%20rgb(121,%20142,%20247),%20rgba(0,%200,%200,%200)%2050%),%20radial-gradient(at%2050%%2080%,%20rgba(14,%20165,%20233,%200.19),%20rgba(0,%200,%200,%200)%2050%)",
+    "kind": "background",
+    "context": "main.relative.z-10 > section.relative.min-h-\\[70vh\\].flex:nth-of-type(1) > div.absolute.inset-0.-z-10:nth-of-type(1)",
+    "outputName": "radial-gradient-at-2020-2050-20rgb-22-20163-2023-e36bc8ab.1920rgba02002002002050"
+  }
+]
